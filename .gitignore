@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+*.out
+*.pid
+
+# Backups
+*.bak
+*.old
+*.swp
+*.tmp
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# Linux cache
+*~
+.cache/
+.history
+
+# VSCode or other IDEs
+.vscode/
+.idea/
+
+# Shell history & configs
+.bash_history
+.bashrc
+
+# Optional: ignore screenshots if not needed
+screenshots/*.png
+screenshots/*.jpg
+screenshots/*.jpeg
