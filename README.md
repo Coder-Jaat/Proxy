@@ -19,6 +19,50 @@ Routes **all system traffic via Tor**, enabling full anonymity using `iptables`,
 
 ---
 
+## ⚙️ Setup & Run
+
+### 🔹 Option 1: Rename as `Jaat_proxy` (Recommended)
+
+# Clone the tool
+```
+git clone https://github.com/Coder-Jaat/Proxy.git
+```
+# Enter directory
+```
+cd Proxy
+```
+# Rename script (optional)
+```
+mv Coder_Proxy.sh Jaat_proxy
+```
+# Make executable
+```
+chmod +x Jaat_proxy
+```
+# Run the tool
+```
+sudo ./Jaat_proxy
+```
+
+### 🔹 Option 2: Rename as `Use Default Script Name`
+
+# Clone the tool
+```
+git clone https://github.com/Coder-Jaat/Proxy.git
+```
+# Enter directory
+```
+cd Proxy
+```
+# Make it executable
+```
+chmod +x Coder_Proxy.sh
+```
+# Run the tool
+```
+sudo ./Coder_Proxy.sh
+```
+
 ## 🖥️ Screenshots
 
 ### 🔹 Proxy Start (Tool Activated)
@@ -29,8 +73,3 @@ Routes **all system traffic via Tor**, enabling full anonymity using `iptables`,
 
 ---
 
-## ⚙️ Usage
-
-```bash
-chmod +x Coder_Proxy.sh
-sudo ./Coder_Proxy.sh
