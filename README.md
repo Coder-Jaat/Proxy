@@ -22,7 +22,7 @@ Routes **all system traffic via Tor**, enabling full anonymity using `iptables`,
 ## 🖥️ Screenshots
 
 ### 🔹 Proxy Start (Tool Activated)
-![proxy start](screenshots/proxy_start.jpg)
+![proxy start](screenshots/proxy_Start.jpg)
 
 ### 🔹 Proxy Stop (Network Restored)
 ![proxy stop](screenshots/proxy_stop.jpg)
