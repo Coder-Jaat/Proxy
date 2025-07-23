@@ -19,6 +19,16 @@ Routes **all system traffic via Tor**, enabling full anonymity using `iptables`,
 
 ---
 
+## 🖥️ Screenshots
+
+### 🔹 Proxy Start (Tool Activated)
+![proxy start](screenshots/proxy_Start.jpg)
+
+### 🔹 Proxy Stop (Network Restored)
+![proxy stop](screenshots/proxy_stop.jpg)
+
+---
+
 ## ⚙️ Setup & Run
 
 ### 🔹 Option 1: Rename as `Jaat_proxy` (Recommended)
@@ -43,6 +53,7 @@ chmod +x Jaat_proxy
 ```
 sudo ./Jaat_proxy
 ```
+📝 𝑷𝒓𝒐 𝑻𝒊𝒑: Always use sudo while running this tool to allow firewall & DNS changes.
 
 ### 🔹 Option 2: Rename as `Use Default Script Name`
 
@@ -62,14 +73,3 @@ chmod +x Coder_Proxy.sh
 ```
 sudo ./Coder_Proxy.sh
 ```
-
-## 🖥️ Screenshots
-
-### 🔹 Proxy Start (Tool Activated)
-![proxy start](screenshots/proxy_Start.jpg)
-
-### 🔹 Proxy Stop (Network Restored)
-![proxy stop](screenshots/proxy_stop.jpg)
-
----
-
