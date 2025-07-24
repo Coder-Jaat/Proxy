@@ -1,4 +1,3 @@
-# Proxy
 # 🛡️ Coder-Jaat Transparent Proxy Setup Tool
 
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue?style=flat-square&logo=linux)
