@@ -23,7 +23,6 @@ Routes **all system traffic via Tor**, enabling full anonymity using `iptables`,
 - ✅ Auto-detect & fallback for Tor service
 - ✅ DNS redirection via `resolv.conf` & `iptables`
 - ✅ Auto-fix if Tor fails (self-healing)
-- ✅ Full UI with colored output + JAAT branding
 - ✅ Clean shutdown & full restore of original network
 - ✅ Built for real-world use on **Kali Linux**
 
